@@ -7,4 +7,5 @@
 
 ### React相关
 * [react生命周期](lib/react生命周期.md)
+* [setState异步](lib/setState异步.md)
 
